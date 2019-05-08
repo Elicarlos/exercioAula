@@ -1,0 +1,2 @@
+# exercioAula
+Resolvendo execício proposto
